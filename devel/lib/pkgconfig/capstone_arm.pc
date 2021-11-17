@@ -1,0 +1,8 @@
+prefix=/home/robot/ws_moveit/devel
+
+Name: capstone_arm
+Description: Description of capstone_arm
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/robot/ws_moveit/devel
+
+Name: capstone_manipulation
+Description: Description of capstone_manipulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robot/ws_moveit/devel/include/moveit/version.h
+
+/home/robot/ws_moveit/src/moveit/moveit_core/version/version.cpp
+moveit/version.h
+-
+cstdio
+-
+
