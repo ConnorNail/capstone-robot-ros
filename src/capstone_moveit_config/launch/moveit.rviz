@@ -245,14 +245,14 @@ Visualization Manager:
       Value: true
       Visual Enabled: true
     - Alpha: 1
-      Angular Arrow Scale: 2
+      Angular Arrow Scale: 0.05000000074505806
       Angular Color: 204; 204; 51
       Arrow Width: 0.5
       Class: rviz/TwistStamped
       Enabled: true
       Hide Small Values: true
       History Length: 1
-      Linear Arrow Scale: 2
+      Linear Arrow Scale: 0.05000000074505806
       Linear Color: 204; 51; 51
       Name: TwistStamped
       Queue Size: 10
@@ -275,7 +275,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/XYOrbit
-      Distance: 1.7427685260772705
+      Distance: 1.5336363315582275
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
@@ -283,17 +283,17 @@ Visualization Manager:
         Value: false
       Field of View: 0.7853981852531433
       Focal Point:
-        X: 0.5465047359466553
-        Y: -0.43193596601486206
-        Z: -1.9222493392589968e-06
+        X: 0.023749113082885742
+        Y: -0.5020338892936707
+        Z: -2.041458628809778e-06
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.14979657530784607
+      Pitch: 0.6747966408729553
       Target Frame: link0
-      Yaw: 5.43496561050415
+      Yaw: 3.214966297149658
     Saved: ~
 Window Geometry:
   Displays:

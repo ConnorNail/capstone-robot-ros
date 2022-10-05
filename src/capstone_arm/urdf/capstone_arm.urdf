@@ -211,7 +211,7 @@
         <parent link="link5" />
         <child link="link6" />
         <axis xyz="1 0 0" />
-        <limit lower="-1.37" upper="1.37" effort="50" velocity="10" />
+        <limit lower="-1.30" upper="1.30" effort="50" velocity="10" />
     </joint>
 
     <transmission name="trans_joint1">
